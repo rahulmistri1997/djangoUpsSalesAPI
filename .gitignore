@@ -1,0 +1,13 @@
+# The virtual enviorment files
+
+.venv/
+venv/
+
+# The Media Files
+media/
+
+#Cache Files stored by VS Code.
+.vscode/
+
+#PyCache
+__pycache__

@@ -1,0 +1,406 @@
+
+
+
+
+
+
+
+<html>
+<head>
+
+<title> Post-Sales Logistics </title>
+
+
+
+<title></title>
+
+<META HTTP-EQUIV="X-UA-Compatible" CONTENT="IE=Edge"/>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="cache-control" CONTENT="no-cache,no-store">
+<META HTTP-EQUIV="expires" CONTENT="-1">
+<script>var imgsrc="images/"; var langue="en";</script>
+<META HTTP-EQUIV="expires" CONTENT="-1">
+<META HTTP-EQUIV="X-UA-Compatible" CONTENT="IE=Edge"/>
+<META HTTP-EQUIV="Window-target" CONTENT="_top">
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
+
+<LINK REL="STYLESHEET" HREF="/cfw/include/njstyle.css" MEDIA="screen" TYPE="text/css">
+<LINK REL="STYLESHEET" HREF="/cfw/include/menu.css" MEDIA="screen" TYPE="text/css">
+<script language="JavaScript" src="/cfw/include/global.js"></script>
+<script language="JavaScript" src="/cfw/include/javascript.js"></script>
+<script language="JavaScript" src="/cfw/include/sortabletable/sortabletable.js"></script>
+<script src="/cfw/include/breakFrame.js"></script>
+<SCRIPT LANGUAGE="JavaScript"><!--
+function windowOpen(){
+myWindow = window.open("http://www.ups.com/content/us/en/privacy.html","windowRef","width=600,height=600, status=yes, resizeable=yes, scrollbars=yes");
+}
+
+function windowOpen2(){
+myWindow = window.open("http://www.ups.com/content/us/en/use.html","windowRef","width=600,height=600, status=yes, resizeable=yes, scrollbars=yes");
+}
+
+function windowOpen3(){
+myWindow = window.open("http://www.ups.com/content/us/en/trademark.html","windowRef","width=600,height=600, status=yes, resizeable=yes, scrollbars=yes");
+}
+
+function windowOpen4(){
+myWindow = window.open("http://ups-scs.com/tools/terms.html","windowRef","width=600,height=600, status=yes, resizeable=yes, scrollbars=yes");
+}
+
+
+function popWrapper(){;}
+-->
+
+</SCRIPT>
+
+</head>
+<body topmargin=0 leftmargin=0 marginwidth=0 marginheight=0 onload="autoScroll();breakOut()">
+
+
+
+			     
+
+
+	<TABLE WIDTH="730" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	  <TR>
+		<TD width="365" HEIGHT="20">&nbsp;</TD>
+		<TD width="365" HEIGHT="20">
+	<DIV align="right"><A href="https://www.ups.com/global">UPS
+	Global</A>&nbsp;|&nbsp;<A href="https://www.ups-scs.com">UPS Supply Chain Solutions</A>
+        </DIV></TD>
+	  </TR>
+	</TABLE>
+	<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" STYLE="background-color:#330000;" WIDTH="730">
+	  <TR>
+		<TD WIDTH="15" BGCOLOR="#330000"><IMG ALT="" BORDER="0" HEIGHT="75" SRC="/cfw/images/brn_fill.gif" WIDTH="15"></TD>
+		<TD WIDTH="47" BGCOLOR="#330000"><IMG SRC="/cfw/images/ups_corp_shield.gif" WIDTH="47" HEIGHT="75"></TD>
+		<TD WIDTH="236" BGCOLOR="#330000"><IMG ALT="" BORDER="0" HEIGHT="75" SRC="/cfw/images/brn_fill.gif" WIDTH="236"></TD>
+		<TD WIDTH="432" BGCOLOR="#330000"><IMG SRC="/cfw/Post-Sales/images/splus_header_brn_home.gif" ALT="Post-Sales Logistics" WIDTH="432" HEIGHT="75"></TD>
+
+	  </TR>
+	  <TR>
+		<TD BGCOLOR="#FFFFFF" COLSPAN=4 style="font-size: 1px"><IMG ALT="" BORDER="0" HEIGHT="1" SRC="/cfw/images/1.gif" WIDTH=""></TD>
+	  </TR>
+	</TABLE>
+
+
+<table border="0" cellpadding="0" cellspacing="0" class="noprint" style="background-color:#003333;" width="730">
+  <tr>
+		<td height="22" width="10"><img alt="" border="0" height="22" src="/cfw/images/1.gif" width="10"></td>
+		<td height="22" align="left" width="500">
+          <span class="whitelink"><a href="/cfw/index.jsp">Home</a></span>
+          <span class="white">|</span> <span class="whitelink"><a href="/cfw/cust-support.jsp">Customer Support</a></span>
+            
+        </td>
+
+	<td ALIGN="RIGHT">
+	
+	
+	
+                            <span class="whitelink"><a href="/cfw/login.screen">Login</a></span>
+                            
+
+	
+	</TD>
+		<td height="22" width="10"><img alt="" border="0" height="22" src="/cfw/images/1.gif" width="10"></td>
+		</tr>
+	</table>
+	<table border="0" cellpadding="0" cellspacing="0" class="noprint" width="730">
+	  <tr>
+	   <td nowrap width="relative" style="font-size: 2pt">
+        	
+        	<ul id="menu_wrap" class="Blue">
+        		<li class="menuButton"><a name="cfwMenuButton" id="tracking" href="/cfw/tracking.screen" onclick="changeBackGround(this)">Tracking</a></li>
+        		<li class="menuButton"><a name="cfwMenuButton" id="inventoryInquiry" href="/cfw/inventoryInquiry.action" onclick="changeBackGround(this)">Inventory Inquiry</a></li>
+        		<li class="menuButton"><a name="cfwMenuButton" id="beginCreateOrder" href="/cfw/beginCreateOrder.action" onclick="changeBackGround(this)">Order Entry</a></li>
+        		<li class="menuButton"><a name="cfwMenuButton" id="printBarcodeLabelsInit" href="/cfw/printBarcodeLabelsInit.action" onclick="changeBackGround(this)">Print Barcode Labels</a></li>
+        		
+        		
+        	</ul>	
+        	
+        </td>
+        <td width="relative" style="font-size: 2pt" BACKGROUND="/cfw/images/pixel_fill.gif" HEIGHT="22" >&nbsp;</td>      
+	  </tr>
+	</table>
+
+ 
+<MAP NAME="Map">
+   <AREA SHAPE="RECT" COORDS="1,1,62,22" HREF="/cfw/tracking.screen" ALT="Tracking" TITLE="Tracking">
+   <AREA SHAPE="RECT" COORDS="62,1,170,22" HREF="/cfw/inventoryInquiry.action" ALT="Inventory Inquiry" TITLE="Inventory Inquiry">
+   <AREA SHAPE="RECT" COORDS="170,1,255,22" HREF="/cfw/beginCreateOrder.action" ALT="Order Entry" TITLE="Order Entry">
+ </MAP>
+
+
+
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=730 BORDER=0>
+  <TBODY> 
+  <TR> 
+	<TD VALIGN=top WIDTH=730> 
+	  <TABLE CLASS=usesta CELLSPACING=0 CELLPADDING=0 WIDTH=730 BORDER=0>
+		<TBODY> 
+		<TR> 
+		  <TD CLASS=subnav COLSPAN=3 HEIGHT=7 style="font-size:5px" WIDTH=422><IMG HEIGHT=7 ALT="" SRC="/cfw/images/1.gif" WIDTH=1 BORDER=0></TD>
+		</TR>
+		<TR> 
+		  <TD CLASS=subnavline COLSPAN=3 HEIGHT=1 style="font-size:1px" WIDTH=422><IMG HEIGHT=1 ALT="" SRC="/cfw/images/1.gif" WIDTH=1 BORDER=0></TD>
+		</TR>
+		</TBODY> 
+	  </TABLE>
+	</TD>
+  </TR>
+  <TR> 
+	<TD VALIGN=top WIDTH=422> 
+	  <DIV CLASS=modulepad> 
+		<TABLE WIDTH="710" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+		  <TR> 
+
+			  
+			 	 <TD WIDTH="134" VALIGN="TOP"> <BR>
+			  
+			  
+
+
+
+<script>
+
+    function doSecurePost(frm) {
+        frm.action = "login.screen"
+        frm.submit();
+    }
+</script>
+<form name="navLoginForm" method="POST" action="/cfw/login.screen">
+    <TABLE BGCOLOR="#ffffff" BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="134">
+        <TR>
+            <TD CLASS="bgxlnrellinksbglg">
+
+            
+                             <DIV CLASS="supmodHeadpad"><SPAN CLASS="supporthd1">Login</SPAN></DIV>
+                            
+               
+            </TD>
+        </TR>
+        <TR>
+            <TD HEIGHT="10" VALIGN="top"><IMG ALT="" HEIGHT="1" SRC="/cfw/images/1.gif" WIDTH="10"></TD>
+        </TR>
+        <TR>
+            <TD VALIGN="top" WIDTH="144">
+                <TABLE>
+                    <TR>
+                        <TD>
+                             By logging in, you agree to the following
+                            
+                            <A href="javascript:popWrapper" onClick="windowOpen2();return false">Web Site
+                                Terms of Use</A>.<BR>
+                            <BR>
+
+                            <DIV CLASS="modpadarrow">&nbsp;<A HREF="/cfw/login.screen"><IMG HEIGHT=8
+                                                                                            ALT=""
+                                                                                            SRC="/cfw/images/icn_arrow_blue_nav.gif"
+                                                                                            WIDTH=11 BORDER=0>Log In
+                                Here</A>
+                            </DIV>
+                           
+
+                        </TD>
+                    </TR>
+                    <TR>
+                        <TD><br/>
+                            Forgot your password? <A HREF="javascript:doResetPassword();">click here</A> to reset your password and receive it via email.<BR>
+                        </TD>
+                    </TR>
+                </TABLE>
+            </TD>
+        </TR>
+        <TR>
+            <TD HEIGHT="10" VALIGN="top" WIDTH="134"><IMG ALT="" HEIGHT="1" SRC="/cfw/images/1.gif"
+                                                          WIDTH="10"></TD>
+        </TR>
+
+        <TR>
+            <TD HEIGHT="3" VALIGN="top" WIDTH="134"><IMG ALT="" HEIGHT="3"
+                                                         SRC="/cfw/images/xln_rel_links_foot_bg.gif"
+                                                         WIDTH="133"></TD>
+        </TR>
+    </TABLE>
+</form>
+<script>
+    function doResetPassword() {
+        openWindow('/cfw/reset_password.screen', 400, 400);
+    }
+</script>
+
+			  
+			  
+			</TD>
+			<TD WIDTH="10" VALIGN="TOP"><img alt="" src="/cfw/images/1.gif" width="10" border=0></TD>
+			<TD VALIGN="TOP"> 
+			  
+			  
+
+
+
+
+
+
+
+  
+  
+<!-- <html:form action="/trackOrder" method="POST">
+<html:hidden property="action" />
+<html:hidden property="orderNumber" />
+<html:errors/> -->
+<form id="trackOrder;NextjetCFW=liA5WS91VlgH0qVbmtY65iutUnXK1clwr5CKQrShliYq2Ko36hnQ6OQOGraztiYP!-78263275" name="trackOrder;NextjetCFW=liA5WS91VlgH0qVbmtY65iutUnXK1clwr5CKQrShliYq2Ko36hnQ6OQOGraztiYP!-78263275" action="/cfw/trackOrder;NextjetCFW=liA5WS91VlgH0qVbmtY65iutUnXK1clwr5CKQrShliYq2Ko36hnQ6OQOGraztiYP!-78263275" method="POST" class="FIELD">
+<input type="hidden" name="action" value="com.nextjet.web.struts2.tracking.TrackingAction@253de43a" id="trackOrder;NextjetCFW=liA5WS91VlgH0qVbmtY65iutUnXK1clwr5CKQrShliYq2Ko36hnQ6OQOGraztiYP!-78263275_action"/>
+<input type="hidden" name="orderNumber" value="77345621" id="trackOrder;NextjetCFW=liA5WS91VlgH0qVbmtY65iutUnXK1clwr5CKQrShliYq2Ko36hnQ6OQOGraztiYP!-78263275_orderNumber"/>
+
+
+
+    
+
+<MAP NAME="TrackingMap">
+
+    <AREA SHAPE="RECT" COORDS="62,1,170,22" HREF="/cfw/inventoryInquiry.action" ALT="Inventory Inquiry" TITLE="Inventory Inquiry">
+    <AREA SHAPE="RECT" COORDS="170,1,255,22" HREF="/cfw/beginCreateOrder.action" ALT="Order Entry" TITLE="Order Entry">
+	
+
+</MAP>
+<script>
+var menuString='';
+</script>
+
+<script>	
+    menuString ='<li class="menuButton"><a name="cfwMenuButton" id="inventoryInquiry" href="/cfw/inventoryInquiry.action" onclick="changeBackGround(this)">Inventory Inquiry</a></li>';
+    menuString.concat('<li class="menuButton"><a name="cfwMenuButton" id="beginCreateOrder" href="/cfw/beginCreateOrder.action" onclick="changeBackGround(this)">Order Entry</a></li>');
+</script>   
+	
+
+<script>
+document.getElementsByName("menu_wrap").innerHTML=menuString;    
+changeBackGround(document.getElementById("tracking"));
+   
+    function displayExternalSite(url){
+	openWindow(url);
+}
+</script>
+
+<table width="100%" cellspacing=0 cellpadding=2 bgcolor="white">
+    <tr>
+        <td valign="top"><br>
+            
+
+
+
+
+
+
+<img src="dimage?id=order_state_visualization0&hashcode=387870350&showVendorInfo=false" width="900" height="190" id="order_state_visualization"/>
+
+        </td>
+    </tr>
+</table>
+
+<table border=0 width="100%"><tr><td width="100%" class=ttlbar>
+<!-- <bean:message key="order.trackingDetail.header"/>
+<bean:write name="trackingForm" property="orderNumber"/> -->
+
+Tracking Information and GPS Current ETA for Order #
+
+77345621
+</td></tr></table>
+<br>
+<br>
+<div class=indent>
+		<!-- <bean:write name="trackingForm" property="trackingInfo" filter="false" ignore="true"/> -->
+		
+		<br>
+		<!-- <bean:write name="trackingForm" property="orderInfo" filter="false" ignore="true"/> -->
+		Order Placed: 23-Oct-2020 0740 GMT<br>Quoted Delivery: By 23-Oct-2020 2301 CDT<br><br>Awaiting warehouse pickup...<br>- scheduled for 23-Oct-2020 2301 CDT<br><br><br>GPS Current ETA: Not Tracking<br>Last GPS Update: Not Tracking<br>POD Name: Receiving Process<br>POD Department: <br>POD Time: 23-Oct-2020 0240 CDT<br>POD Details: <br>
+		<!-- <logic:equal name="trackingForm" property="displayTrackInfo" value="true">
+        <logic:present name="trackingForm" property="thirdPartyTrackingURLs"> -->
+        
+	        
+	        	    
+            
+        <!-- </logic:present>
+        </logic:equal> -->
+</div>
+<!-- </html:form> -->
+</form>
+
+
+
+ <script>
+ 
+function expandTrackingSection(){
+document.trackingForm.action.value="ExpandAction";
+document.trackingForm.submit();
+}
+
+function collapseTrackingSection(){
+document.trackingForm.action.value="CollapseAction";
+document.trackingForm.submit();
+}
+
+</script>
+			  
+			  
+			  
+			</TD>
+		  </TR>
+		</TABLE>
+	
+	  </DIV>
+	</TD>
+  </TR>
+  </TBODY> 
+</TABLE>
+
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" CLASS="grey2" WIDTH="730">
+  <TR> 
+	<TD COLSPAN="3" HEIGHT="20"><IMG ALT="" BORDER="0" HEIGHT="20" SRC="/cfw/images/1.gif" WIDTH="730"></TD>
+  </TR>
+  <TR> 
+	<TD HEIGHT="1" ROWSPAN="4"><IMG ALT="" BORDER="0" HEIGHT="1" SRC="/cfw/images/1.gif" WIDTH="10"></TD>
+	<TD BGCOLOR="#cccccc" HEIGHT="1" style="font-size: 1px"><IMG ALT="" BORDER="0" HEIGHT="1" SRC="/cfw/images/1.gif" WIDTH="710"></TD>
+	<TD HEIGHT="1" ROWSPAN="4"><IMG ALT="" BORDER="0" HEIGHT="1" SRC="/cfw/images/1.gif" WIDTH="10"></TD>
+  </TR>
+  <TR> 
+	<TD HEIGHT="10"><IMG ALT="" BORDER="0" HEIGHT="10" SRC="/cfw/images/1.gif" WIDTH="710"></TD>
+  </TR>
+  <TR>
+	<TD HEIGHT="1">
+		<A HREF="/cfw/index.jsp">Home</A>
+	  | <A HREF="/cfw/cust-support.jsp">Customer Support</A> 
+      
+      | <A HREF="/cfw/tracking.screen">Tracking</A>
+        
+      | <A HREF="/cfw/inventoryInquiry.action">Inventory Inquiry</A>
+ 
+      | <A HREF="/cfw/beginCreateOrder.action">Order Entry</A><BR><BR> 
+      
+       
+      
+      
+      Copyright � 2004-
+      2021 
+      <!-- <bean:message key="cfw.copyright.postfix"/> -->United Parcel Service of America, Inc. All rights reserved. 
+      	  
+	   <BR>
+	  <SPAN CLASS="noprint">
+          <A href="javascript:popWrapper" onClick ="windowOpen2();return false">Web Site Terms of Use</A>
+           
+          | <A href="javascript:popWrapper" onClick ="windowOpen();return false">Privacy Policy</A>
+          | <A href="javascript:popWrapper" onClick ="windowOpen3();return false">Trademarks</A>
+      </SPAN> </TD>
+  </TR>
+  <TR>
+	<TD HEIGHT="10"><IMG ALT="" BORDER="0" HEIGHT="10" SRC="/cfw/images/1.gif" WIDTH="710"></TD>
+  </TR>
+</TABLE>
+</body>
+
+<head>
+	<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+</head>
+
+</html>
