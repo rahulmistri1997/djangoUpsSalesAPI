@@ -25,7 +25,7 @@ SECRET_KEY = '2$nmtjteg1#(iwu1($njv7m=!l6r^(93hr3mfkh8s0u!xze696'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["upspostsalesapi.herokuapp.com"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
